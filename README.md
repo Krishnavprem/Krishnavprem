@@ -20,7 +20,6 @@ I'm Krishna V Prem, an Electronics and Communication Engineer passionate about c
 **Design, Development and Simulation tools:** Synopsys Custom Compiler, Autodesk Fusion 360, MATLAB, Cadence OrCAD, EasyEDA, Ansys HFSS, Altium Designer, VS Code 
 <br>
 **Operating System:** Linux   
-<br>
 **Technical skills:** Machine Learning
 <br>
 **Microsoft Office Suite:** Word, PowerPoint, Excel
