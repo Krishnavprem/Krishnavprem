@@ -17,13 +17,18 @@ I'm Krishna V Prem, an Electronics and Communication Engineer passionate about c
 
 **Programming languages:** Python, C, MATLAB  
 **Design, Development and Simulation tools:** Synopsys Custom Compiler, Autodesk Fusion 360, MATLAB, Cadence OrCAD, EasyEDA, Ansys HFSS, Altium Designer, VS Code  
-**Operating System:** Linux                                                                                                                                                                                         
-**Technical skills:** Machine Learning 
+**Operating System:** Linux   
+<br>
+**Technical skills:** Machine Learning
+<br>
 **Microsoft Office Suite:** Word, PowerPoint, Excel
+<br>
 **Soft skills:** Communication, Teamwork and Collaboration, Adaptability, Time management 
 
 **Let's Connect!**
 
 **LinkedIn:** www.linkedin.com/in/krishnavprem
+<br>
 **Email:** krishnavpremkumar@gmail.com
+<br>
 Feel free to explore my repositories.
